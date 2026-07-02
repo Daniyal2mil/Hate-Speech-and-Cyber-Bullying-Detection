@@ -2,8 +2,6 @@
 
 An AI-powered system that detects **hate speech**, **cyberbullying**, and **neutral content** in social media text using a TF-IDF + Logistic Regression model, backed by a rule-based safety net and served through an interactive Streamlit app.
 
-> Developed as a Natural Language Processing (CT-485) group project at NED University of Engineering & Technology.
-
 ---
 
 ## ✨ Features
